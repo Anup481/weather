@@ -1,1 +1,1 @@
-A sample weather app created using typescript.
+# A sample weather app created using typescript.
