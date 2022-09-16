@@ -116,11 +116,6 @@ export default {
   'Width300': width * (300 / 360),
   Width312: width * (312 / 360),
   Width320: width * (320 / 360),
-  Width328: width * (328 / 360),
-  Width330: width * (330 / 360),
-  Width340: width * (340 / 360),
-  Width406: width * (406 / 360),
-  Width1008: width * (1008 / 360),
 
   // special properties
   FullHeight: '100%',
@@ -129,18 +124,5 @@ export default {
   Height656: height * (656 / 720),
   forceInset: { top: 'always', bottom: 'never' },
   normalHitSlop: { left: 10, right: 10, top: 10, bottom: 10 },
-  MONTH: [
-    'Jan',
-    'Feb',
-    'Mar',
-    'Apr',
-    'May',
-    'Jun',
-    'Jul',
-    'Aug',
-    'Sep',
-    'Oct',
-    'Nov',
-    'Dec',
-  ],
+
 };
